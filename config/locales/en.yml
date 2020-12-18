@@ -1,4 +1,29 @@
 en:
+  coronavirus_pages:
+    actions:
+      discard: Discard changes
+      govuk_view: View on GOV.UK
+      preview: Preview
+      publish: Publish
+    announcements:
+      delete:
+        confirmation: Are you sure?
+      reorder: Reorder
+      add: Add announcement
+    index:
+      landing_page_edit:
+        accordians: Edit landing page accordions and announcements
+        live_stream_url: Edit live stream URL
+        something: Edit something else on the landing page
+      subtopic_edit:
+        accordians_1: Edit
+        accordians_2: accordions
+        something: Edit something else on the
+    sub_sections:
+      delete:
+        confirmation: Are you sure?
+      reorder: Reorder
+      add: Add accordian
   step_by_step_page:
     statuses:
       draft: Draft
